@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cristileonard
+- 👋🏻 Hi, I’m @cristileonard
 - 👀 I’m interested in Web Development, App Development and AI.
-- 🌱 I’m currently learning Computer Science at Universityof Parma
-- 💞️ I’m looking to collaborate on every possible and impossible interesting projects
+- 👨🏻‍💻 I’m currently learning Computer Science at Universityof Parma
+- 👥 I’m looking to collaborate on every possible and impossible interesting projects
 - 📫 How to reach me --> infocristileonard@gmail.com  or  leonardcristi00 on Twitter.
 
 <!---
